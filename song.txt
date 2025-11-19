@@ -7,3 +7,4 @@ fifth line
 sixth line
 
 
+CONFLICT FEATURE BRANCH
