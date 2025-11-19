@@ -6,7 +6,15 @@ fourth line
 fifth line
 sixth line
 
+
 CONFLICT TEST
 fjhsfdjhsdf
 sdfuhdsfuysdfu
 sdfgysdfusdf
+
+CONFLICT FEATURE BRANCH
+fsdsdfksdfui
+sdfsdfisdf
+sdfsdisdf
+sdfsdfisd
+
