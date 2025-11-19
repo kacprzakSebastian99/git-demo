@@ -6,4 +6,6 @@ fourth line
 fifth line
 sixth line
 
+CONFLICT TEST
+
 
