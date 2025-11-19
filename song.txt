@@ -7,6 +7,6 @@ fifth line
 sixth line
 
 CONFLICT TEST
-
-
-CONFLICT FEATURE BRANCH
+fjhsfdjhsdf
+sdfuhdsfuysdfu
+sdfgysdfusdf
